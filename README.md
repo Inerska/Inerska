@@ -5,4 +5,13 @@ Learning by myself, I hope to become one day a video games developer.
 
 I'm a **self-taught** and **Open-Source enthusiast**, let's become friend, the adventure's just begun !
 
+
+🤳 You can find me on [Instagram](https://www.instagram.com/alexiis.gdl)
+
+👻 Also on [Snapchat](https://www.snapchat.com/add/alexis-gdl)
+
+👷 And finally on [Linkedln](https://www.linkedin.com/in/alexis-gridel-1b2a321aa/)
+
+
+
 > « Triumph without peril, brings no glory »
