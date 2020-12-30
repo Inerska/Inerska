@@ -1,17 +1,23 @@
-### Hey, I'm Alexis 👋
-![uwu](https://media1.tenor.com/images/e8768d592d7a3c61cba64262a5ab8bf7/tenor.gif?itemid=13650680)
 
-Learning by myself, I hope to become one day a video games developer.
+## <pre>&lt;p&gt;Hello World!&lt;/p&gt;</pre>
 
-I'm a **self-taught** and **Open-Source enthusiast**, let's become friend, the adventure's just begun !
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Inerska&show_icons=true"/>](https://github.com/Inerska/)
+
+<a href="https://www.linkedin.com/in/alexis-gridel/">
+  <img align="left" alt="Inerska's LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Inerska">
+  <img align="left" alt="Inerska's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/alexiis.gdl/">
+  <img align="left" alt="Inerska's ig" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+</a>
+<br />
 
 
-🤳 You can find me on [Instagram](https://www.instagram.com/alexiis.gdl)
-
-👻 Also on [Snapchat](https://www.snapchat.com/add/alexis-gdl)
-
-👷 And finally on [Linkedln](https://www.linkedin.com/in/alexis-gridel-1b2a321aa/)
-
+## I am Alexis C. GRIDEL
+#### Self-taught and open-source developer.
+#### Aiming to be a software / video games developer
 
 
 > « Triumph without peril, brings no glory »
