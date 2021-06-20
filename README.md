@@ -16,8 +16,8 @@
 
 
 ## I am Alexis C. GRIDEL
-#### Self-taught and open-source developer.
-#### Aiming to be a software / video games developer
+#### .NET lover and open-source enthusiast.
+#### Road to Microsoft MVP
 
 
 > « Triumph without peril, brings no glory »
