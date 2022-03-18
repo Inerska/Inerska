@@ -2,15 +2,11 @@
 ## <pre>&lt;p&gt;Hello World!&lt;/p&gt;</pre>
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Inerska&show_icons=true"/>](https://github.com/Inerska/)
-
 <a href="https://www.linkedin.com/in/alexis-gridel/">
-  <img align="left" alt="Inerska's LinkedIn" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Inerska">
-  <img align="left" alt="Inerska's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Inerska's LinkedIn" width="128px" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/alexiis.gdl/">
-  <img align="left" alt="Inerska's ig" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/instagram.svg" />
+  <img align="left" alt="Inerska's ig" width="128px" src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" />
 </a>
 <br />
 
