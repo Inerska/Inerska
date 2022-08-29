@@ -1,0 +1,4 @@
+﻿- uses: JasonEtco/rss-to-readme@v1
+  with:
+    feed-url: https://agdl.dev/feed.rss
+    template: "> {{ excerpt }}\n\n[Read more!]({{ url }})"
