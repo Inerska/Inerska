@@ -13,8 +13,9 @@ jobs:
     name: Updates
     runs-on: ubuntu-latest
     steps:
-      - uses: flcdrg/rss-to-readme@v1.2.7
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
         with:
-          feed-url: https://agdl.dev/feed.rss
-          readme-section: feed
-          empty-commits: false
+          url: 'https://agdl.dev/feed.rss'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master

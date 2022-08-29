@@ -15,15 +15,10 @@
 #### .NET lover and open-source enthusiast.
 #### Road to Microsoft MVP
 
-##### Blog posts
-
 Check my latest posts [here](https://agdl.dev)
-<!--START_SECTION:feed-->
-* [Back to Basics - Object Paradigm (1) My first steps and the object](&#x2F;posts&#x2F;orientedobjectprogrammingincsharp)
-* [Back to Basics — How and why learning CSharp (C#) programming language](&#x2F;posts&#x2F;howandwhylearningcsharp)
-* [Method extension and Dependency Injection in C#.NET](&#x2F;posts&#x2F;methodextensionanddependencyinjection)
-* [How to edit a default immutable string without creating a copy](&#x2F;posts&#x2F;immutablestringcsharp)
-* [GitHub Copilot in Visual Studio 2022](&#x2F;posts&#x2F;copilotonvs)
-<!--END_SECTION:feed-->
+
+### Latest Posts
+<!-- feed start -->
+<!-- feed end -->
 
 ![onon-alexandre-est-la](https://github.com/Inerska/Inerska/blob/output/github-contribution-grid-snake.svg)
