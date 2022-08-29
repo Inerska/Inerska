@@ -15,7 +15,7 @@
 #### .NET lover and open-source enthusiast.
 #### Road to Microsoft MVP
 
-Check my latest posts on [https://agdl.dev/](https://agdl.dev)
+Check my latest posts on [agdl.dev](https://agdl.dev)
 
 ### Latest Posts
 <!-- feed start -->
