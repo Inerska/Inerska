@@ -13,7 +13,8 @@ jobs:
     name: Updates
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: flcdrg/rss-to-readme@v1.2.7
         with:
           feed-url: https://agdl.dev/feed.rss
           readme-section: feed
+          empty-commits: false
