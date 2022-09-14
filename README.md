@@ -19,11 +19,11 @@ Check my latest posts on [agdl.dev](https://agdl.dev)
 
 ### Latest Posts
 <!-- feed start -->
+- Sep 13 - [How to enable the new UI in Jetbrains products](/posts/new-ui-jetbrains-ide)
 - Sep 10 - [Get VI in your favourite IDE or code editor](/posts/getviinyourfavorouteide)
 - Aug 24 - [Back to Basics - Object Paradigm (1) My first steps and the object](/posts/orientedobjectprogrammingincsharp)
 - Aug 16 - [Back to Basics — How and why learning CSharp (C#) programming language](/posts/howandwhylearningcsharp)
 - Aug 10 - [Method extension and Dependency Injection in C#.NET](/posts/methodextensionanddependencyinjection)
-- Apr 12 - [How to edit a default immutable string without creating a copy](/posts/immutablestringcsharp)
 <!-- feed end -->
 
 ![onon-alexandre-est-la](https://github.com/Inerska/Inerska/blob/output/github-contribution-grid-snake.svg)
