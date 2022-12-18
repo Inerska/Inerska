@@ -17,7 +17,7 @@
 
 Check my latest posts on [agdl.dev](https://agdl.dev)
 
-### Latest Posts
+### 📝 Latest Posts
 <!-- feed start -->
 - Sep 13 - [How to enable the new UI in Jetbrains products](/posts/new-ui-jetbrains-ide)
 - Sep 10 - [Get VI in your favourite IDE or code editor](/posts/getviinyourfavorouteide)
