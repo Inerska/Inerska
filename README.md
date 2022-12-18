@@ -3,4 +3,3 @@
 #### Road to Microsoft MVP
 
 Check my latest posts on [agdl.dev](https://agdl.dev)
-
