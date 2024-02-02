@@ -43,5 +43,5 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_rss: yes
           plugin_rss_limit: 4
-          plugin_rss_source: https://agdl.dev/feed.rss
+          plugin_rss_source: https://www.agdl.dev/rss.xml
           committer_token: ${{ secrets.GITHUB_TOKEN }}
